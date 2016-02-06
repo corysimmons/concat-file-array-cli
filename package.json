@@ -1,6 +1,6 @@
 {
   "name": "concat-file-array-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CLI to concat an array of files.",
   "main": "cli.js",
   "bin": {

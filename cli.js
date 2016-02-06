@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var meow = require('meow');
 var concat = require('concat');
 
