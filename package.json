@@ -1,0 +1,27 @@
+{
+  "name": "concat-file-array-cli",
+  "version": "0.0.1",
+  "description": "CLI to concat an array of files.",
+  "main": "cli.js",
+  "bin": {
+    "concat-files": "cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corysimmons/concat-file-array-cli.git"
+  },
+  "keywords": [
+    "concat",
+    "cli"
+  ],
+  "author": "Cory Simmons",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/corysimmons/concat-file-array-cli/issues"
+  },
+  "homepage": "https://github.com/corysimmons/concat-file-array-cli#readme",
+  "dependencies": {
+    "concat": "^1.0.0",
+    "meow": "^3.7.0"
+  }
+}
