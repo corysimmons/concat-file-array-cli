@@ -22,6 +22,6 @@
   "homepage": "https://github.com/corysimmons/concat-file-array-cli#readme",
   "dependencies": {
     "concat": "^1.0.0",
-    "meow": "^3.7.0"
+    "meow": "^4.0.0"
   }
 }
